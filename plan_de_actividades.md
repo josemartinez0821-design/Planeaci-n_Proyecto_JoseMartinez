@@ -1,4 +1,4 @@
-# Plan de Actividades del Proyecto
+ Plan de Actividades del Proyecto
 
 | N.º | Actividad | Descripción | Fecha tentativa | Responsable | Entregable |
 |-----|------------|--------------|------------------|--------------|-------------|
