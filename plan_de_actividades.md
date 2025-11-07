@@ -5,7 +5,7 @@
 | 1 | Análisis de requerimientos | Revisión de las necesidades del cliente y definición de funcionalidades. | 10-12 nov | José Miguel Martínez | Documento de requerimientos |
 | 2 | Diseño del sistema | Creación de diagramas UML, base de datos y arquitectura del sistema. | 13-15 nov | José Miguel Martínez | Diseño del software |
 | 3 | Desarrollo frontend | Construcción de interfaz con HTML, CSS y JS. | 16-20 nov | José Miguel Martínez | Prototipo funcional |
-| 4 | Desarrollo backend | Implementación de lógica y conexión con la base de datos. | 21-25 nov | José Miguel Martínez | Módulos funcionales |
+| 4 | Desarrollo backend | Implementación de lógica y conexión con la base de datos. | 21-27 nov | José Miguel Martínez | Módulos funcionales |
 | 5 | Pruebas y ajustes | Validación, corrección de errores e integración final. | 26-28 nov | José Miguel Martínez | Versión estable |
 
 ## Reflexión sobre el uso de GitHub
